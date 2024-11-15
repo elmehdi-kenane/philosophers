@@ -1,0 +1,13 @@
+# === HIDDEN === #
+.vscode
+.DS_Store
+
+# === debug-files === #
+*.dSYM
+
+# === archive-file === #
+*.a
+
+# === obj-file === #
+*.o
+*.out
