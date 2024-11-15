@@ -1,4 +1,7 @@
-# 🧘 Philosophers Problem - 42 Project
+# 🧘 Philosophers Problem - 42 Project 
+
+![1337](https://img.shields.io/badge/1337%20UM6P-white?style=for-the-badge&logoColor=white)
+![42](https://img.shields.io/badge/school%20-black?style=for-the-badge&logo=42&logoColor=white)
 
 Welcome to the **Philosophers Problem** project! This project implements the classical _Dining Philosophers Problem_ 🥢 in C, showcasing synchronization techniques and multithreading.
 
