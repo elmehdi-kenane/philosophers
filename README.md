@@ -1,4 +1,4 @@
-# 🧘 Philosophers Problem - C Project
+# 🧘 Philosophers Problem - 42 Project
 
 Welcome to the **Philosophers Problem** project! This project implements the classical _Dining Philosophers Problem_ 🥢 in C, showcasing synchronization techniques and multithreading.
 
@@ -13,11 +13,11 @@ _*To compile and manage the project, a `Makefile` is provided._
 
 1. Clone the repository.
    ```bash
-   git clone git@github.com:elmehdi-kenane/Philosophers.git
+   git clone git@github.com:elmehdi-kenane/philosophers.git
    ```
 2. Enter to the project and Compile it:
    ```bash
-   cd Philosophers/mandatory
+   cd philosophers/mandatory
    make
    ```
 3. Run the simulation:
